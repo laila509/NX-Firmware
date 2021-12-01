@@ -9,7 +9,7 @@ This is a collection of the Nintendo Switch Firmware
 
 You can watch this guide : https://www.youtube.com/watch?v=W_OjR-yxfdY
 
-
+To download older firware, please click this link : https://bit.ly/nx-firmware
 
 
 
