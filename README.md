@@ -1,15 +1,9 @@
-This is a collection of the Nintendo Switch Firmware
+Switch系统离线升级包教程
 
-## HOW TO INSTALL THE FIRMWARE
+1. 下载最新的Firmware系统包，解压缩后连同文件夹复制到TF卡根目录。
 
-1. Create a new folder on the SD card and name it FW
-2. Extract the firmware pack into the FW folder
-3. Boot to CFW (SysNAND or EmuNAND) then run the Daybreak app
-4. And follow the on-screen instruction
+2. 下载最新的乐享或奇想大气层纯净包，解压缩后按说明更新到TF卡，如果大气层没更新支持最新的SW系统，就不要往下走了。
 
-You can watch this guide : https://www.youtube.com/watch?v=W_OjR-yxfdY
+3. 启动大气层，可以选自动识别、虚拟(破解)系统或真实(破解)系统，但不能选真实（正版）系统，进入后在相册里找到Daybreak软件就可以了。
 
-To download older firware, please click this link : https://bit.ly/nx-firmware
-
-
-
+4. 使用Daybreak升级的时候要选择蓝色的按键（建议），尤其是要选EXFAT+FAT的，升级完毕可以关机或重启。
