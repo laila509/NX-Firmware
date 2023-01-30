@@ -4,7 +4,9 @@ Switch系统离线升级包教程
 
 2.下载最新的奇乐融合大气层破解包
 
-https://www.91tvg.com/thread-315324-1-1.html
+https://github.com/laila509/QL-ATM-Package/releases
+
+https://codeberg.org/laila509/QL-ATM-Package/releases
 
 解压缩后按说明更新到TF卡，如果大气层没更新支持最新的SW系统，就不要往下走了。
 
