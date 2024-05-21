@@ -1,12 +1,10 @@
-Switch17.0.1系统离线升级包教程
+Switch18.0.1系统离线升级包教程
 
 1.下载最新的Firmware系统包，解压缩后连同文件夹复制到TF卡根目录。
 
 2.下载最新的奇乐融合大气层破解包
 
 https://github.com/laila509/QL-ATM-Package/releases
-
-https://codeberg.org/laila509/QL-ATM-Package/releases
 
 解压缩后按说明更新到TF卡，如果大气层没更新支持最新的SW系统，就不要往下走了。
 
